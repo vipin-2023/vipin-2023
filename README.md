@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hi, I’m @vipin
+ Hi, I’m vipin based in kerala
  
  I’m interested in doing stuffs with computer especially programming
  
